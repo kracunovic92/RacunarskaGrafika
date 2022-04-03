@@ -1,5 +1,3 @@
-# project_base
-Neke promene
 
-# Uputstvo
-
+# Video
+https://youtu.be/RJTndnvWBHw
